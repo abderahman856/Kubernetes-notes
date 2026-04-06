@@ -1,0 +1,13 @@
+What is it?
+
+  Kubernetes is a Container Orchestrator. It doesn't build your code (like a CI tool) or provide a database; it simply ensures that your containerized code runs exactly where and how it should.
+
+Why use it?
+  
+  Velocity: Deploy updates multiple times a day with zero downtime.
+  
+  Efficiency: Pack more applications into fewer servers to save cloud costs.
+  
+  Portability: Move workloads from AWS to Azure to On-Premise without changing your application code.
+  
+  Ecosystem: It has the largest community and tool support (Helm, Prometheus, Istio) in the DevOps world.
