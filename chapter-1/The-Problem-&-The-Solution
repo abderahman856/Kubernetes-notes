@@ -1,0 +1,13 @@
+The Problem
+
+When running containers in production, you face manual overhead challenges:
+
+  How do you restart a container if it crashes at 2 AM?
+  
+  How do you scale up to 100 containers during a traffic spike?
+  
+  How do you update your app without taking it offline?
+
+The Solution
+
+  Kubernetes solves this by providing a "Declared State" model. You tell K8s what you want (e.g., "I want 5 copies of this app running"), and K8s works 24/7 to make sure that reality matches your request.
