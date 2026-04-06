@@ -1,1 +1,3 @@
-Kubernetes.
+1. Kubernetes Overview
+Kubernetes is a production-grade, open-source platform designed to automate the deployment, scaling, and management of containerized applications. 
+It acts as the "Operating System" for your cloud-native infrastructure, abstracting away the underlying hardware to focus on application delivery.
